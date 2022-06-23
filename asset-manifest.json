@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/filter-app/static/css/main.28c8e64c.css",
-    "main.js": "/filter-app/static/js/main.e7a582a8.js",
+    "main.js": "/filter-app/static/js/main.d0f42492.js",
     "index.html": "/filter-app/index.html",
     "main.28c8e64c.css.map": "/filter-app/static/css/main.28c8e64c.css.map",
-    "main.e7a582a8.js.map": "/filter-app/static/js/main.e7a582a8.js.map"
+    "main.d0f42492.js.map": "/filter-app/static/js/main.d0f42492.js.map"
   },
   "entrypoints": [
     "static/css/main.28c8e64c.css",
-    "static/js/main.e7a582a8.js"
+    "static/js/main.d0f42492.js"
   ]
 }
