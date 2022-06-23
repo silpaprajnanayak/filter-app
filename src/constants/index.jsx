@@ -49,7 +49,7 @@ export const categoryList = [
       cuisine: 'american',
       rating: 5,
       price: 2500,
-      coverSrc: '/images/places/ameri.jpg',
+      coverSrc: '/filter-app/images/places/ameri.jpg',
     },
     {
       id: 2,
@@ -60,7 +60,7 @@ export const categoryList = [
       cuisine: 'italian',
       rating: 4,
       price: 1000,
-      coverSrc: '/images/places/italian.webp',
+      coverSrc: '/filter-app/images/places/italian.webp',
     },
     {
       id: 3,
@@ -71,7 +71,7 @@ export const categoryList = [
       cuisine: 'chinese',
       rating: 3,
       price: 2000,
-      coverSrc: '/images/places/china.jpg',
+      coverSrc: '/filter-app/images/places/china.jpg',
     },
     {
       id: 4,
@@ -82,7 +82,7 @@ export const categoryList = [
       cuisine: 'american',
       rating: 1,
       price: 1800,
-      coverSrc: '/images/places/sea.jpg',
+      coverSrc: '/filter-app/images/places/sea.jpg',
     },
     {
       id: 5,
@@ -93,7 +93,7 @@ export const categoryList = [
       cuisine: 'italian',
       rating: 5,
       price: 2000,
-      coverSrc: '/images/places/italiian.jpg',
+      coverSrc: '/filter-app/images/places/italiian.jpg',
     },
     {
       id: 6,
@@ -104,7 +104,7 @@ export const categoryList = [
       cuisine: 'chinese',
       rating: 5,
       price: 3500,
-      coverSrc: '/images/places/fookyew2.jpg',
+      coverSrc: '/filter-app/images/places/fookyew2.jpg',
     },
     {
       id: 7,
@@ -115,7 +115,7 @@ export const categoryList = [
       cuisine: 'american',
       rating: 2,
       price: 2200,
-      coverSrc: '/images/dishes/nacho-burger.jpg',
+      coverSrc: '/filter-app/images/dishes/nacho-burger.jpg',
     },
     {
       id: 8,
@@ -126,7 +126,7 @@ export const categoryList = [
       cuisine: 'italian',
       rating: 1,
       price: 1900,
-      coverSrc: '/images/dishes/Mushroom-Risotto-Recipe-1-1200.jpg',
+      coverSrc: '/filter-app/images/dishes/Mushroom-Risotto-Recipe-1-1200.jpg',
     },
     {
       id: 9,
@@ -137,7 +137,7 @@ export const categoryList = [
       cuisine: 'chinese',
       rating: 4,
       price: 2750,
-      coverSrc: '/images/dishes/shiitake-salmon-fried-rice-0218-103230720.jpg',
+      coverSrc: '/filter-app/images/dishes/shiitake-salmon-fried-rice-0218-103230720.jpg',
     },
     {
       id: 10,
@@ -148,7 +148,7 @@ export const categoryList = [
       cuisine: 'american',
       rating: 2,
       price: 4350,
-      coverSrc: '/images/dishes/pesto-chicken.jpg',
+      coverSrc: '/filter-app/images/dishes/pesto-chicken.jpg',
     },
     {
       id: 11,
@@ -159,7 +159,7 @@ export const categoryList = [
       cuisine: 'italian',
       rating: 3,
       price: 3300,
-      coverSrc: '/images/dishes/as-tomato-bruschetta-articleLarge.jpg',
+      coverSrc: '/filter-app/images/dishes/as-tomato-bruschetta-articleLarge.jpg',
     },
     {
       id: 12,
@@ -170,6 +170,6 @@ export const categoryList = [
       cuisine: 'chinese',
       rating: 2,
       price: 4100,
-      coverSrc: '/images/dishes/dimsums.jpg',
+      coverSrc: '/filter-app/images/dishes/dimsums.jpg',
     },
   ];
